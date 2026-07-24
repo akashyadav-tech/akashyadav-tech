@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- TODO: replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akashyadav-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -122,23 +122,20 @@ Core Coursework: DSA, Artificial Intelligence, Machine Learning, Web Development
     <img src="https://leetcard.jacoblin.cool/akashyadav_01?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
   </a>
   <!-- TODO: replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
+  <a href="https://github.com/akashyadav-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=akashyadav-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 🐍 Contribution Graph
 
 <!-- TODO: replace YOUR_GITHUB_USERNAME with your actual GitHub username (needs the snake animation workflow set up in your profile repo) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashyadav-tech/akashyadav-tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashyadav-tech/akashyadav-tech/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/akashyadav-tech/akashyadav-tech/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
