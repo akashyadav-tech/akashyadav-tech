@@ -122,9 +122,7 @@ Core Coursework: DSA, Artificial Intelligence, Machine Learning, Web Development
     <img src="https://leetcard.jacoblin.cool/akashyadav_01?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
   </a>
   <!-- TODO: replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <a href="https://github.com/akashyadav-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=akashyadav-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
-  </a>
+  
 </p>
 
 
