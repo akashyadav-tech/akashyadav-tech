@@ -87,7 +87,7 @@ Consistently practicing data structures & algorithms on LeetCode to stay sharp f
 | **🎤 InterviewGuru** — AI Mock Interview Platform | AI-driven platform that parses resumes, generates 5 dynamic interview questions, accepts voice/text answers under a timer, and gives instant AI feedback plus a downloadable report card. | React, Node.js, Express, MongoDB, Firebase, Razorpay, OpenRouter AI, JWT | [Live Demo](https://interviewguru-ai-user.onrender.com/) · [Source](https://github.com/akashyadav-tech/InterviewGuru) |
 | **💬 AI Customer Support Chatbot** — Embeddable SaaS Widget | Production-ready embeddable AI chatbot (like Intercom/Tidio) that any website can add via a script tag, with multi-tenant SaaS architecture and org-based authentication. | Next.js, MongoDB, Scalekit, AI Integration, Vercel | [Live Demo](https://support-ai-rust.vercel.app/) · [Source](https://github.com/akashyadav-tech/support-ai) |
 
-> ⚠️ Add your real Live Demo / Source links above — they weren't included in the portfolio text I received.
+
 
 ---
 
