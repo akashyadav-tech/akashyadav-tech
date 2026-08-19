@@ -75,7 +75,7 @@ Consistently practicing data structures & algorithms on LeetCode to stay sharp f
 | 🟡 Medium | 150+ / 2083 |
 | 🔴 Hard | 25+ / 952 |
 
-**Total Solved: 300+** — Actively focusing on array manipulation and system design optimization.
+**Total Solved: 400+** — Actively focusing on array manipulation and system design optimization.
 
 ---
 
