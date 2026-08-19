@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer skilled in building real-time, scalable web applications using the **MERN stack** — from live order-tracking systems to AI-powered platforms. I have a strong foundation in Data Structures & Algorithms with **300+ problems solved on LeetCode**.
+I'm a full-stack developer skilled in building real-time, scalable web applications using the **MERN stack** — from live order-tracking systems to AI-powered platforms. I have a strong foundation in Data Structures & Algorithms with **400+ problems solved on LeetCode**.
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (Artificial Intelligence) at GL Bajaj Institute of Technology & Management, Greater Noida (2024 – 2028).
 - 💡 **Expertise:** MERN stack (MongoDB, Express.js, React.js, Node.js), Next.js, TypeScript, real-time systems with Socket.IO.
