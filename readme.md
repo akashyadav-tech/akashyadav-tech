@@ -33,7 +33,7 @@ I'm a full-stack developer skilled in building real-time, scalable web applicati
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (Artificial Intelligence) at GL Bajaj Institute of Technology & Management, Greater Noida (2024 – 2028).
 - 💡 **Expertise:** MERN stack (MongoDB, Express.js, React.js, Node.js), Next.js, TypeScript, real-time systems with Socket.IO.
-- 🏆 **Problem Solving:** Solved **300+** problems on LeetCode (150+ Easy, 150+ Medium, 25+ Hard).
+- 🏆 **Problem Solving:** Solved **400+** problems on LeetCode (150+ Easy, 150+ Medium, 25+ Hard).
 - 🚀 **Current Focus:** Real-time applications, AI-integrated platforms, and system design fundamentals.
 - 🤝 **Looking For:** Internship opportunities to apply my skills in a professional environment.
 
